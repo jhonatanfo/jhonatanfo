@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Sou formado na Faculdade Impacta no curso de Análise e Desenvolvimento de Sistemas e no curso técnico de Informática para Internet, tenho experiência como desenvolvedor front-end em diversos projetos web e construção de aplicações mobile, nesse período de experiência prestei serviços para grandes empresas, exemplos: Banco Bradesco e Banco BTG Pactual. 
+
+FERRAMENTAS
+Visual Code, Git, GitHub, Photoshop, Adobe XD e Figma skills.
+
+LINGUAGEM WEB
+HTML, CSS, SASS, JavaScript, Bootstrap, Angular e TypeScript.
+
+Portfolio: www.developerweb.com.br
